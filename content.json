@@ -1,0 +1,162 @@
+{
+  "hubs": [
+    { "id": "golf",      "label": "Golf",      "category": "golf",      "desc": "Everything on the course" },
+    { "id": "fitness",   "label": "Fitness",   "category": "fitness",   "desc": "Training & performance" },
+    { "id": "nutrition", "label": "Nutrition", "category": "nutrition", "desc": "Fuelling right" },
+    { "id": "mindset",   "label": "Mindset",   "category": "mindset",   "desc": "Mental game & growth" },
+    { "id": "study",     "label": "Study",     "category": "study",     "desc": "Academic excellence" }
+  ],
+
+  "content": [
+    {
+      "id": "swing",
+      "label": "Swing Tips",
+      "category": "golf",
+      "platform": "TikTok",
+      "url": "https://tiktok.com/@weston4k",
+      "desc": "Fixing the most common swing faults",
+      "tags": ["golf", "beginner"]
+    },
+    {
+      "id": "course-mgmt",
+      "label": "Course Management",
+      "category": "golf",
+      "platform": "YouTube",
+      "url": "https://youtube.com/@weston4k",
+      "desc": "How to think your way around the course",
+      "tags": ["golf", "strategy"]
+    },
+    {
+      "id": "short-game",
+      "label": "Short Game",
+      "category": "golf",
+      "platform": "Instagram",
+      "url": "https://instagram.com/weston4k",
+      "desc": "Chipping, pitching & putting drills",
+      "tags": ["golf", "drills"]
+    },
+    {
+      "id": "practice-routine",
+      "label": "Practice Routine",
+      "category": "golf",
+      "platform": "YouTube",
+      "url": "https://youtube.com/@weston4k",
+      "desc": "My weekly range routine for consistent improvement",
+      "tags": ["golf", "routine"]
+    },
+    {
+      "id": "gym-golf",
+      "label": "Gym for Golf",
+      "category": "fitness",
+      "platform": "TikTok",
+      "url": "https://tiktok.com/@weston4k",
+      "desc": "Exercises that actually transfer to your golf game",
+      "tags": ["fitness", "golf"],
+      "extraLinks": ["golf"]
+    },
+    {
+      "id": "morning-routine",
+      "label": "Morning Routine",
+      "category": "fitness",
+      "platform": "Substack",
+      "url": "https://weston4k.substack.com",
+      "desc": "How I start every day for peak performance",
+      "tags": ["fitness", "mindset"],
+      "extraLinks": ["mindset"]
+    },
+    {
+      "id": "mobility",
+      "label": "Mobility Work",
+      "category": "fitness",
+      "platform": "Instagram",
+      "url": "https://instagram.com/weston4k",
+      "desc": "Hip & shoulder mobility for better rotation",
+      "tags": ["fitness", "golf"],
+      "extraLinks": ["golf"]
+    },
+    {
+      "id": "meal-prep",
+      "label": "Meal Prep",
+      "category": "nutrition",
+      "platform": "YouTube",
+      "url": "https://youtube.com/@weston4k",
+      "desc": "Full weekly meal prep walkthrough",
+      "tags": ["nutrition", "routine"]
+    },
+    {
+      "id": "golfer-diet",
+      "label": "Golfer's Diet",
+      "category": "nutrition",
+      "platform": "Substack",
+      "url": "https://weston4k.substack.com",
+      "desc": "What I eat on competition days",
+      "tags": ["nutrition", "golf", "performance"],
+      "extraLinks": ["golf", "fitness"]
+    },
+    {
+      "id": "protein-snacks",
+      "label": "Protein Snacks",
+      "category": "nutrition",
+      "platform": "TikTok",
+      "url": "https://tiktok.com/@weston4k",
+      "desc": "Quick high-protein ideas for busy days",
+      "tags": ["nutrition", "quick"]
+    },
+    {
+      "id": "pressure",
+      "label": "Playing Under Pressure",
+      "category": "mindset",
+      "platform": "Substack",
+      "url": "https://weston4k.substack.com",
+      "desc": "Managing nerves and performing when it counts",
+      "tags": ["mindset", "golf"],
+      "extraLinks": ["golf"]
+    },
+    {
+      "id": "growth-mindset",
+      "label": "Growth Mindset",
+      "category": "mindset",
+      "platform": "YouTube",
+      "url": "https://youtube.com/@weston4k",
+      "desc": "How failure makes you better — the science and practice",
+      "tags": ["mindset", "growth"]
+    },
+    {
+      "id": "journaling",
+      "label": "Journaling",
+      "category": "mindset",
+      "platform": "Instagram",
+      "url": "https://instagram.com/weston4k",
+      "desc": "My daily reflection practice and why it works",
+      "tags": ["mindset", "routine"]
+    },
+    {
+      "id": "exam-prep",
+      "label": "Exam Prep",
+      "category": "study",
+      "platform": "TikTok",
+      "url": "https://tiktok.com/@weston4k",
+      "desc": "How I study for big exams — my full system",
+      "tags": ["study", "productivity"]
+    },
+    {
+      "id": "note-taking",
+      "label": "Note-Taking System",
+      "category": "study",
+      "platform": "YouTube",
+      "url": "https://youtube.com/@weston4k",
+      "desc": "My Cornell-style system for retaining everything",
+      "tags": ["study", "system"]
+    },
+    {
+      "id": "focus",
+      "label": "Deep Focus",
+      "category": "study",
+      "platform": "Substack",
+      "url": "https://weston4k.substack.com",
+      "desc": "Blocking distractions and staying in the zone for hours",
+      "tags": ["study", "mindset"],
+      "extraLinks": ["mindset"]
+    }
+  ]
+}
